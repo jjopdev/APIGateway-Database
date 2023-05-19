@@ -1,7 +1,7 @@
 # APIGateway-Database
 
 Este repositorio contiene los archivos SQL para la creación y configuración de la base de datos del API Gateway. Este proyecto está destinado únicamente para fines de prueba y estudio.
-
+![alt text](https://github.com/juanou/APIGateway-Database/blob/main/APIGatewayDB%20-%20dbo.png)
 ## Estructura de archivos
 
 - **scripts/create_database.sql**: Consulta SQL para crear la base de datos APIGatewayDB.
