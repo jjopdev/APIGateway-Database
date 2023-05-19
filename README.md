@@ -21,7 +21,7 @@ Este repositorio contiene los archivos SQL para la creación y configuración de
 
 ## Estructura de las tablas
 
-- **users**: Tabla que almacena información de los usuarios registrados en la tienda en línea.
+- **users**: Tabla que almacena información de los usuarios registrados en el sistema.
 - **roles**: Tabla que almacena los diferentes roles disponibles en el sistema.
 - **tokens**: Tabla que registra los tokens de autenticación generados para los usuarios.
 - **user_roles**: Tabla que mapea la relación entre usuarios y roles.
