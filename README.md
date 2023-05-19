@@ -18,7 +18,8 @@ A continuación se muestra el diagrama de la base de datos APIGatewayDB:
 
 ![Diagrama de la base de datos](https://github.com/juanou/APIGateway-Database/blob/main/APIGatewayDB%20-%20dbo.png)
 
-El diagrama representa la estructura de las tablas y las relaciones entre ellas en la base de datos del API Gateway.
+El diagrama representa la estructura de las tablas y las relaciones entre ellas en la base de datos del API Gateway. Puedes encontrar una descripción detallada de cada tabla en el siguiente documento: [Descripción detallada de la base de datos](https://github.com/juanou/APIGateway-Database/blob/main/database_description.md).
+
 
 ## Cómo obtener el diagrama de la base de datos
 
