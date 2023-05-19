@@ -1,7 +1,7 @@
 # APIGateway-Database
 
 Este repositorio contiene los archivos SQL para la creación y configuración de la base de datos del API Gateway. Este proyecto está destinado únicamente para fines de prueba y estudio.
-![alt text](https://github.com/juanou/APIGateway-Database/blob/main/APIGatewayDB%20-%20dbo.png)
+
 ## Estructura de archivos
 
 - **scripts/create_database.sql**: Consulta SQL para crear la base de datos APIGatewayDB.
@@ -11,6 +11,22 @@ Este repositorio contiene los archivos SQL para la creación y configuración de
 - **scripts/create_user_roles_table.sql**: Consulta SQL para crear la tabla de asignación de roles a usuarios.
 - **scripts/create_audit_logs_table.sql**: Consulta SQL para crear la tabla de registros de auditoría.
 - **scripts/insert_example_data.sql**: Consulta SQL para insertar datos de ejemplo en las tablas.
+
+## Diagrama de la base de datos
+
+A continuación se muestra el diagrama de la base de datos APIGatewayDB:
+
+![Diagrama de la base de datos](https://github.com/juanou/APIGateway-Database/blob/main/APIGatewayDB%20-%20dbo.png)
+
+El diagrama representa la estructura de las tablas y las relaciones entre ellas en la base de datos del API Gateway.
+
+## Cómo obtener el diagrama de la base de datos
+
+Si deseas generar el diagrama de la base de datos, puedes utilizar herramientas como Microsoft SQL Server Management Studio o una herramienta de modelado de bases de datos como Lucidchart. Simplemente importa la estructura de la base de datos y genera el diagrama visual.
+
+## Actualizando el diagrama de la base de datos
+
+Si realizas cambios en la estructura de la base de datos, recuerda actualizar el diagrama correspondiente para reflejar los cambios. Esto ayudará a mantener una documentación precisa y actualizada de la base de datos del API Gateway.
 
 ## Instrucciones de uso
 
